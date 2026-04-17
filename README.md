@@ -1,9 +1,10 @@
-# Projet Annuel ISN
+# Projet Annuel 
 
 ## 👥 Membres
-- Adam
-- [Nom 2]
-- [Nom 3]
+- Adam hassan
+- yanis loucif 
+- gaspard tcheng
+- hichem saada
 
 ## 📌 Objectif
 Développement d'une application web dans le cadre du projet annuel.
